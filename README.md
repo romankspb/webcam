@@ -1,5 +1,5 @@
 # Webcam
-Webcam (ffmpeg, jsmpeg and nodejs)
+Stream video from your usb camera in one minute (ffmpeg, jsmpeg and nodejs)
 
 # Create docker image
 git clone https://github.com/romankspb/webcam.git && cd webcam && docker build .
